@@ -1,0 +1,10 @@
+cn/wavely/http/proxy/RecJobResult$Job.class
+cn/wavely/http/proxy/SearchJobRequest.class
+cn/wavely/http/proxy/RecJobResult.class
+cn/wavely/http/proxy/BaseRecResult.class
+cn/wavely/http/proxy/JobCategoryResult$Result.class
+cn/wavely/http/proxy/JobCategoryResult.class
+cn/wavely/http/TestClass.class
+cn/wavely/http/proxy/RecJobResult$Result.class
+cn/wavely/http/proxy/ProxyFactoryTest.class
+cn/wavely/http/proxy/SearchInterface.class
